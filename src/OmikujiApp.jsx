@@ -7,7 +7,7 @@ const OmikujiApp = () => {
   const [status, setStatus] = useState("idle");
 
   async function drawOmikuji() {
-    console.log("High Level!");
+    console.log("High Level!!");
 
     try {
       setResult(null);
