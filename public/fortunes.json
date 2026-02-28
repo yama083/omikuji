@@ -1,0 +1,7 @@
+[
+  { "title": "大吉", "color": "tomato" },
+  { "title": "中吉", "color": "plum" },
+  { "title": "小吉", "color": "orange" },
+  { "title": "末吉", "color": "limegreen" },
+  { "title": "凶", "color": "purple" }
+]
